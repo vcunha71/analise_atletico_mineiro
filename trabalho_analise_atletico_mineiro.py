@@ -178,8 +178,7 @@ st.write("""
 Para ilustrar as análises táticas, incluímos alguns vídeos de partidas relevantes do Atlético Mineiro, onde o time aplicou uma pressão alta e controlou a posse de bola.
 Também analisamos as dificuldades encontradas em certos momentos defensivos e a precisão nas finalizações:
 """)
-st.video("https://www.youtube.com/embed/ID_DO_VIDEO")  # Substitua o ID_DO_VIDEO com o link do YouTube relevante
-st.video("https://www.youtube.com/embed/ID_DO_VIDEO_2")  # Substitua por outro vídeo relevante
+st.video("https://youtu.be/Zf0GG99_OKo")  # Substitua o ID_DO_VIDEO com o link do YouTube relevante
 st.write("""
 Os vídeos destacam momentos em que a pressão do Atlético Mineiro resulta em recuperação rápida de posse, bem como lances onde a criação ofensiva se traduz em escanteios e oportunidades de gol. A análise visual complementa os dados quantitativos, ajudando a entender como o time aplica os conceitos de pressão e controle na prática.
 """)
