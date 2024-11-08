@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import seaborn as sns
 
-# Caminhos dos arquivos (considerando que estão na pasta "Bases Atividades" dentro da raiz do projeto)
-jogadores_path = "Bases Atividades/league_players.xlsx"
+# Caminhos dos arquivos (considerando que estão na pasta dentro da raiz do projeto)
+jogadores_path = "league_players.xlsx"
 partidas_path = "partidas_Atletico_Mineiro.xlsx"
 
 # Carregar os dados
