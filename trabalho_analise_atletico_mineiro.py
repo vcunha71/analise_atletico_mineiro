@@ -6,7 +6,7 @@ import seaborn as sns
 
 # Caminhos dos arquivos (considerando que estão na pasta "Bases Atividades" dentro da raiz do projeto)
 jogadores_path = "Bases Atividades/league_players.xlsx"
-partidas_path = "Bases Atividades/partidas_Atletico_Mineiro.xlsx"
+partidas_path = "partidas_Atletico_Mineiro.xlsx"
 
 # Carregar os dados
 partidas_df = pd.read_excel(partidas_path)
